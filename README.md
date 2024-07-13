@@ -11,7 +11,7 @@ In my free time, I indulge in one of the following activities:
 - workout
 
 ---
-
+<br />
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -24,11 +24,14 @@ In my free time, I indulge in one of the following activities:
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub Actions" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
 
-
-
+<br />
+<br />
 <br />
 
 ---
+
+<br />
+
 ### 📫 Get in touch today
 Let’s talk; if you want to collaborate or an idea you may have
 ## contact@bharatbhushan.me ↗
