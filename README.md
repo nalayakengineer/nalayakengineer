@@ -1,5 +1,5 @@
 # 🐼 Bharat Bhushan
----
+
 
 **`Code Name: Nalayak Engineer (IT Support Specilaist/Photographer/Part-time developer)`**
 
@@ -10,8 +10,7 @@ In my free time, I indulge in one of the following activities:
 - swimming 🏊‍♂️
 - workout 🏋️‍♂️
 
----
-<br />
+
 
 ## 🧰 Languages and Tools
 
@@ -26,13 +25,15 @@ In my free time, I indulge in one of the following activities:
 <img align="left" alt="GitHub Actions" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
 
 <br />
+
+<br />
 <br />
 
 ---
 
 <br />
 
-## 📫 Get in touch today
+## 📫 Get in touch
 Let’s talk; if you want to collaborate or an idea you may have
 ## contact@bharatbhushan.me ↗
 
