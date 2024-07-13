@@ -6,9 +6,9 @@
 I am full time IT Support Engineer and a part-time developer. I love automating random boring stuff at work.
 <br />
 In my free time, I indulge in one of the following activities: 
-- table-tennis
-- swimming
-- workout
+- table-tennis 🏓
+- swimming 🏊‍♂️
+- workout 🏋️‍♂️
 
 ---
 <br />
