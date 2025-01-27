@@ -25,10 +25,11 @@ I am a full-time IT Support Engineer and a part-time developer. I love automatin
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
+<!---
 ## 📈 GitHub Stats
 
 ![Nalayak Engineer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalayakengineer&show_icons=true&theme=radical)
+--->
 
 ## 🏆 GitHub Trophies
 
