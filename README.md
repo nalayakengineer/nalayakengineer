@@ -4,24 +4,36 @@
 
 I am a full-time IT Support Engineer and a part-time developer. I love automating random boring stuff at work.
 
-In my free time, I indulge in one of the following activities:
-- 🏓 Table Tennis
-- 🏊‍♂️ Swimming
-- 🏋️‍♂️ Workout
+- 🔭 I’m currently working on improving my coding skills.
+- 🌱 I’m currently learning ccna, ccnp, web development and cloud computing.
+- 💬 Ask me about Python, or JavaScript(maybe, I am also learning).
+- ⚡ Fun fact: I love 🏓 table tennis, 🏊‍♂️ swimming, and 🏋️‍♂️ working out.
 
-## 🧰 Languages and Tools
 
-<p align="left">
-    <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
-    <img alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-    <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-    <img alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img alt="GitHub Actions" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
-</p>
+
+## 🛠️ Languages and Tools
+
+- **Programming Languages:** 
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **Frameworks and Libraries:** 
+  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+- **Tools:** 
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+## 📈 GitHub Stats
+
+![Nalayak Engineer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalayakengineer&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Nalayak Engineer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nalayakengineer&theme=radical)
+
 
 ---
 
