@@ -36,7 +36,6 @@ I am a full-time IT Support Engineer and a part-time developer. I love automatin
 ![Nalayak Engineer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nalayakengineer&theme=radical)
 
 
----
 
 ## 📫 Get in Touch
 Let’s talk! If you want to collaborate or have an idea, you can reach me at:
