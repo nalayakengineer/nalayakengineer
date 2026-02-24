@@ -31,9 +31,6 @@ I am a full-time IT Support Engineer and a part-time developer. I love automatin
 ![Nalayak Engineer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalayakengineer&show_icons=true&theme=radical)
 --->
 
-## 🏆 GitHub Trophies
-
-![Nalayak Engineer's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nalayakengineer&theme=radical)
 
 
 
